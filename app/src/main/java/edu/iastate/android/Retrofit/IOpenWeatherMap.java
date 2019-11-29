@@ -1,6 +1,6 @@
 package edu.iastate.android.Retrofit;
 
-import java.util.Observable;
+import io.reactivex.Observable;
 
 import edu.iastate.android.Model.WeatherResult;
 import retrofit2.http.GET;
